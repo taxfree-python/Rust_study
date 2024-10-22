@@ -1,0 +1,1 @@
+Rust の自習用の repository です．参考にしている本は，[コンセプトから理解するRust](https://amzn.asia/d/hWDd9XR)です．
